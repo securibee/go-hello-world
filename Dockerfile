@@ -8,4 +8,4 @@ RUN go build .
 
 EXPOSE 8080
 
-CMD ["./hello"]
+CMD ["./go-hello-world"]
